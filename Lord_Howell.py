@@ -1,4 +1,3 @@
-# Lord_Howell.py
 from random import Random
 from itertools import islice
 
